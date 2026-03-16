@@ -1,0 +1,5 @@
+{
+  "name": "Node.js Backend API with JWT & Swagger",
+  "description": "A secure Node.js backend built with Next.js API routes, featuring JWT authentication, product CRUD, and Swagger documentation.",
+  "requestFramePermissions": []
+}
